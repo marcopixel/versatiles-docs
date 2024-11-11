@@ -2,7 +2,7 @@
 
 ## Contributing
 
-If you would like to contribute, please read our [Contributing Guide](/guide/contributing.md) for more information on how to get started.
+If you would like to contribute, please read our [Contributing Guide]() for more information on how to get started.
 
 ## Community
 

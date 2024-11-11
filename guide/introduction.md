@@ -16,7 +16,7 @@ VersaTiles simplifies this process by offering ready-to-use, highly customizable
 
 Our goal is to make it easy for anyone to host their own web maps.
 
-You can learn more about the project in our [Project Philosophy](./philosophy.md) section.
+You can learn more about the project in our [Project Philosophy]() section.
 
 ## Features
 
@@ -60,7 +60,7 @@ It is especially useful for projects that require a high level of customization,
 
 ## Examples
 
-Check out our [Examples](./reference/) for code snippets and practical uses or visit the [Showcase](./showcase/) to see VersaTiles in action.
+Check out our [Examples]() for code snippets and practical uses or visit the [Showcase]() to see VersaTiles in action.
 
 ::: warning TODO
 Rewrite the text? Seems a bit off
